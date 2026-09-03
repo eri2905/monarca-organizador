@@ -1,0 +1,18 @@
+{
+  "name": "Monarca — Organizador personal",
+  "short_name": "Monarca",
+  "description": "Organiza tareas, proyectos y fechas desde cualquier dispositivo.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11100f",
+  "theme_color": "#c85d28",
+  "icons": [
+    {
+      "src": "./monarca.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
